@@ -1,0 +1,15 @@
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Application\bin\Debug\net8.0\Messanger.Application.deps.json
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Application\bin\Debug\net8.0\Messanger.Application.dll
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Application\bin\Debug\net8.0\Messanger.Application.pdb
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Application\bin\Debug\net8.0\Messanger.Domain.dll
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Application\bin\Debug\net8.0\Messanger.Domain.pdb
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Application\obj\Debug\net8.0\Messanger.Application.csproj.AssemblyReference.cache
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Application\obj\Debug\net8.0\Messanger.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Application\obj\Debug\net8.0\Messanger.Application.AssemblyInfoInputs.cache
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Application\obj\Debug\net8.0\Messanger.Application.AssemblyInfo.cs
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Application\obj\Debug\net8.0\Messanger.Application.csproj.CoreCompileInputs.cache
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Application\obj\Debug\net8.0\Messange.B8C42927.Up2Date
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Application\obj\Debug\net8.0\Messanger.Application.dll
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Application\obj\Debug\net8.0\refint\Messanger.Application.dll
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Application\obj\Debug\net8.0\Messanger.Application.pdb
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Application\obj\Debug\net8.0\ref\Messanger.Application.dll

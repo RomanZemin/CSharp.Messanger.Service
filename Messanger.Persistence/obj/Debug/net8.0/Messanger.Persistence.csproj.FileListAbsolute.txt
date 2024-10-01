@@ -1,0 +1,17 @@
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Persistence\bin\Debug\net8.0\Messanger.Persistence.deps.json
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Persistence\bin\Debug\net8.0\Messanger.Persistence.dll
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Persistence\bin\Debug\net8.0\Messanger.Persistence.pdb
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Persistence\bin\Debug\net8.0\Messanger.Application.dll
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Persistence\bin\Debug\net8.0\Messanger.Domain.dll
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Persistence\bin\Debug\net8.0\Messanger.Application.pdb
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Persistence\bin\Debug\net8.0\Messanger.Domain.pdb
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Persistence\obj\Debug\net8.0\Messanger.Persistence.csproj.AssemblyReference.cache
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Persistence\obj\Debug\net8.0\Messanger.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Persistence\obj\Debug\net8.0\Messanger.Persistence.AssemblyInfoInputs.cache
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Persistence\obj\Debug\net8.0\Messanger.Persistence.AssemblyInfo.cs
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Persistence\obj\Debug\net8.0\Messanger.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Persistence\obj\Debug\net8.0\Messange.36AEFC1F.Up2Date
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Persistence\obj\Debug\net8.0\Messanger.Persistence.dll
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Persistence\obj\Debug\net8.0\refint\Messanger.Persistence.dll
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Persistence\obj\Debug\net8.0\Messanger.Persistence.pdb
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Persistence\obj\Debug\net8.0\ref\Messanger.Persistence.dll

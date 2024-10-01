@@ -1,0 +1,11 @@
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Domain\bin\Debug\net8.0\Messanger.Domain.deps.json
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Domain\bin\Debug\net8.0\Messanger.Domain.dll
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Domain\bin\Debug\net8.0\Messanger.Domain.pdb
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Domain\obj\Debug\net8.0\Messanger.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Domain\obj\Debug\net8.0\Messanger.Domain.AssemblyInfoInputs.cache
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Domain\obj\Debug\net8.0\Messanger.Domain.AssemblyInfo.cs
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Domain\obj\Debug\net8.0\Messanger.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Domain\obj\Debug\net8.0\Messanger.Domain.dll
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Domain\obj\Debug\net8.0\refint\Messanger.Domain.dll
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Domain\obj\Debug\net8.0\Messanger.Domain.pdb
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\Messanger.Domain\obj\Debug\net8.0\ref\Messanger.Domain.dll

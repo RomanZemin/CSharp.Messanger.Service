@@ -1,0 +1,12 @@
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\ExternalServices\bin\Debug\net8.0\Messanger.ExternalServices.deps.json
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\ExternalServices\bin\Debug\net8.0\Messanger.ExternalServices.dll
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\ExternalServices\bin\Debug\net8.0\Messanger.ExternalServices.pdb
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\ExternalServices\obj\Debug\net8.0\Messanger.ExternalServices.csproj.AssemblyReference.cache
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\ExternalServices\obj\Debug\net8.0\Messanger.ExternalServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\ExternalServices\obj\Debug\net8.0\Messanger.ExternalServices.AssemblyInfoInputs.cache
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\ExternalServices\obj\Debug\net8.0\Messanger.ExternalServices.AssemblyInfo.cs
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\ExternalServices\obj\Debug\net8.0\Messanger.ExternalServices.csproj.CoreCompileInputs.cache
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\ExternalServices\obj\Debug\net8.0\Messanger.ExternalServices.dll
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\ExternalServices\obj\Debug\net8.0\refint\Messanger.ExternalServices.dll
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\ExternalServices\obj\Debug\net8.0\Messanger.ExternalServices.pdb
+C:\Users\mvide\source\repos\_GROSSMANN\CSharp.Messanger.Service\ExternalServices\obj\Debug\net8.0\ref\Messanger.ExternalServices.dll
